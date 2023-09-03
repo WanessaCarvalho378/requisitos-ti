@@ -3,7 +3,7 @@
 <details>
 <summary>Levantamento de requisitos</summary>
 
-Requisitos: Analisar os requisitos da empresa para transformar em um sistema ou app 
+Os requisitos são classificados em: 
 
 Requisitos funcionais (funcionalidades): O que deve ser feito, como quer que o aplicativo se comporte 
 
@@ -17,13 +17,25 @@ Quais os principais problemas que enfrentam atualmente sem um sistema de operaç
 Quais informações devem ser armazenadas no cadastro de histórico? 
 Gostaria de acrescentar algo a mais?
 
-Fazer a entrevista com mais de uma pessoa 
+Obs.: Fazer a entrevista com mais de uma pessoa 
 
-Uma outra técnica para levantamento de requisitos além de entrevistas, é fazer brainstorm
+Obs.: Uma outra técnica para levantamento de requisitos além de entrevistas, é fazer brainstorm
 
 https://www.alura.com.br/artigos/5-tecnicas-para-otimizar-processo-brainstorming
 
-O protótipo é importante para validar requisitos e assegurar que um requisito foi entendido da maneira correta  
+<details>
 
-</details>
+<details>
+<summary>Escrita de requisitos</summary>
 
+É importante que o requisito seja: necessário, verificável, atingível e claro
+
+requisito essencial: deve ser contemplado
+
+requisito importante: pode entrar em um segundo momento, porém se não implementar, traz prejuízo 
+
+requisito desejável: que se não for implementado, não traz prejuízos
+
+Você agrupa ou por funcionalidade ou prioridade.
+Se escolhido a priorização, é importante verificar se o requisito precisa ter algum outro desenvolvido anteriormente e também se 
+a necessidade do cliente para a utilização deste requisito.
