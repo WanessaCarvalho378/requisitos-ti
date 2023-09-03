@@ -54,7 +54,6 @@ https://medium.com/lfdev-blog/como-escrever-requisitos-de-software-de-forma-simp
 
 </details>
 
-
 <details>
 <summary>Validação de requisitos</summary>
 
@@ -70,3 +69,41 @@ Durante o processo de validação, precisa conferir os seguintes critérios:
 - ser verificável (existe um processo finito e economicamente viável do qual uma pessoa ou máquina possa assegurar que o produto de software atende ao requisito)
 
 </details>
+
+<details>
+<summary>Analise de demanda</summary>
+
+Ao receber uma demanda, o primeiro passo de todos é elaborar um roteiro de poucas perguntas, permitindo questionar sobre o entendimento macro do cenário e validar o entendimento inicial da demanda.
+
+Ao receber a demanda, precisa analisar a demanda através dos seguintes pontos: 
+- entender o problema  
+- entender a necessidade
+- Gerar a primeira lista de dúvidas
+
+Depois, se precisa entender o macro da situação, que envolve: 
+- reconhecer o cenário macro 
+- identificar premissas e restriçõrs 
+- localizar as partes interessadas
+
+Por fim, avaliar a viabilidade, que é ver se existe todos os recursos necessários, e se faz isso através de um relatório de viabilidade, em que esse relatório tem como base se questionar:
+Quais problemas atuais essa solução resolve?
+É possivel integrar com outras soluções? 
+O que deve ser e não deve ser contemplado? 
+ 
+Perguntas chaves para entender o cenário macro da situação:
+- Quem solicitou?
+- Quem vai utilizar? 
+- Quais os benefícios da solução?
+
+Perguntas chaves para entender a solução junto do cliente:
+- Para você, qual seria uma boa solução? 
+- Quais os problemas que a solução deve resolver?
+- Em qual ambiente de negócios a solução vai ser aplicada?
+- Quais os pontos que precisa ter mais atenção?
+
+A identificação de partes interessadas pode ser feita através de uma reunião com os clientes, em que o compilado da reunião pode ser numa planilha com: nome, área, função, email, celular, principais responsabilidades, principais expectativas, nível de interesse no projeto e nível de engajamento
+
+</details>
+
+
+
