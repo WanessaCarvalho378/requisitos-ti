@@ -17,6 +17,11 @@ Quais os principais problemas que enfrentam atualmente sem um sistema de operaç
 Quais informações devem ser armazenadas no cadastro de histórico? 
 Gostaria de acrescentar algo a mais?
 
+roteiro de entrevista:
+[roteiro-de-entrevista-com-o-usuc3a1rio.pdf](https://github.com/WanessaCarvalho378/requisitos-ti/files/12507745/roteiro-de-entrevista-com-o-usuc3a1rio.pdf)
+
+[Video 1.4 [Fazendo as perguntas certas] Roteiro para elaboração de perguntas.pdf](https://github.com/WanessaCarvalho378/requisitos-ti/files/12507752/Video.1.4.Fazendo.as.perguntas.certas.Roteiro.para.elaboracao.de.perguntas.pdf)
+
 Obs.: Fazer a entrevista com mais de uma pessoa 
 
 Obs.: Uma outra técnica para levantamento de requisitos além de entrevistas, é fazer brainstorm
@@ -33,7 +38,6 @@ https://www.alura.com.br/artigos/5-tecnicas-para-otimizar-processo-brainstorming
 requisito essencial: deve ser contemplado
 
 requisito importante: pode entrar em um segundo momento, porém se não implementar, traz prejuízo 
-[Alura-engenharia-requisitos-CheckListValidacaoDosRequisitos.xlsx](https://github.com/WanessaCarvalho378/requisitos-ti/files/12507417/Alura-engenharia-requisitos-CheckListValidacaoDosRequisitos.xlsx)
 
 requisito desejável: que se não for implementado, não traz prejuízos
 
@@ -47,5 +51,22 @@ Também é importante que cada requisito da lista contemple uma funcionalidade i
 https://papogp.com/2011/08/10-dicas-para-coleta-de-requisitos-2/
 
 https://medium.com/lfdev-blog/como-escrever-requisitos-de-software-de-forma-simples-e-garantir-o-m%C3%ADnimo-de-erros-no-sistema-app-74df2ee241cc
+
+</details>
+
+
+<details>
+<summary>Validação de requisitos</summary>
+
+A pessoa pra validar precisa ser diferente da que fez o levantamento de requisitos 
+Pode ser usado uma planilha para verificação de itens de validação, como essa:
+[Alura-engenharia-requisitos-CheckListValidacaoDosRequisitos.xlsx](https://github.com/WanessaCarvalho378/requisitos-ti/files/12507824/Alura-engenharia-requisitos-CheckListValidacaoDosRequisitos.xlsx)
+
+Durante o processo de validação, precisa conferir os seguintes critérios: 
+
+- ser modificável 
+- ser rastreável (origem de cada um de seus requisitos é clara e a referência a cada um deles é  facilitada nos documentos subsequentes do processo)
+- não ser ambíguo 
+- ser verificável (existe um processo finito e economicamente viável do qual uma pessoa ou máquina possa assegurar que o produto de software atende ao requisito)
 
 </details>
