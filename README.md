@@ -23,7 +23,7 @@ Obs.: Uma outra técnica para levantamento de requisitos além de entrevistas, �
 
 https://www.alura.com.br/artigos/5-tecnicas-para-otimizar-processo-brainstorming
 
-<details>
+</details>
 
 <details>
 <summary>Escrita de requisitos</summary>
@@ -48,4 +48,4 @@ https://papogp.com/2011/08/10-dicas-para-coleta-de-requisitos-2/
 
 https://medium.com/lfdev-blog/como-escrever-requisitos-de-software-de-forma-simples-e-garantir-o-m%C3%ADnimo-de-erros-no-sistema-app-74df2ee241cc
 
-<details>
+</details>
