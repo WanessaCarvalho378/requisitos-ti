@@ -51,7 +51,8 @@ Por fim, avaliar a viabilidade, que é ver se existe todos os recursos necessár
 Quais problemas atuais essa solução resolve?
 É possivel integrar com outras soluções? 
 O que deve ser e não deve ser contemplado? 
- 
+[Video 1.6 [Analise de Viabilidade] Estudo de Viabilidade.pdf](https://github.com/WanessaCarvalho378/requisitos-ti/files/12508075/Video.1.6.Analise.de.Viabilidade.Estudo.de.Viabilidade.pdf)
+
 Perguntas chaves para entender o cenário macro da situação:
 - Quem solicitou?
 - Quem vai utilizar? 
@@ -64,6 +65,7 @@ Perguntas chaves para entender a solução junto do cliente:
 - Quais os pontos que precisa ter mais atenção?
 
 A identificação de partes interessadas pode ser feita através de uma reunião com os clientes, em que o compilado da reunião pode ser numa planilha com: nome, área, função, email, celular, principais responsabilidades, principais expectativas, nível de interesse no projeto e nível de engajamento
+[Video 1.5 [Identficando as partes interessadas]  Partes Interessadas - Planilha1 (1).pdf](https://github.com/WanessaCarvalho378/requisitos-ti/files/12508076/Video.1.5.Identficando.as.partes.interessadas.Partes.Interessadas.-.Planilha1.1.pdf)
 
 </details>
 
@@ -75,11 +77,13 @@ A identificação de partes interessadas pode ser feita através de uma reunião
 Você agrupa ou por funcionalidade ou prioridade.
 Se escolhido a priorização, é importante verificar se o requisito precisa ter algum outro desenvolvido anteriormente e também se a necessidade do cliente para a utilização deste requisito.
 
-Para classificação e priorização de requisitos, é interessante usar a técnica Moscow 
+Para classificação e priorização de requisitos, é interessante usar a técnica Moscow:
 Must - Tem que ter (Sem eles o sistema não funciona)
 Should - Deveria ter (Importantes porém menos críticos)
 Could - Poderia ter (requisitos que ajudam na usabilidade)
 Want - Interessante ter (requisitos de melhoria)
+
+[Video 4.2 [Classificação e Priorização de Requisitos] Priorização e Classificação de Requisitos - Planilha1.pdf](https://github.com/WanessaCarvalho378/requisitos-ti/files/12508077/Video.4.2.Classificacao.e.Priorizacao.de.Requisitos.Priorizacao.e.Classificacao.de.Requisitos.-.Planilha1.pdf)
 
 Ao escrever, é importante numerar/"etiquetar" cada requisito
 Também é importante que cada requisito da lista contemple uma funcionalidade inteira, como se tivesse contando uma 'história'
@@ -131,3 +135,35 @@ dar um nome do cenário tendo a ver com a funcionalidade em questão, ter um ato
 - revisar diagrama de caso, cenários, requisitos não funcionais 
 - reunir para consolidar, essa etapa também envolve refinar e reescrever os requisitos, se necessário
 - O diagrama de caso deve ser construído pois irá apoiar no entendimento mais amplo do projeto, além de contribuir para que a documentação do projeto fique mais completa.
+
+</details>
+
+<details>
+<summary>Construção do documento de requisitos</summary>
+
+- precisa ter introdução (principais pontos do projeto), cenário atual, descrição dos requisitos separando em requisitos funcionais e não funcionais, incluir protótipos das telas iniciais, ter diagramas dos casos de uso, e evoluções que o sistema pode ter ao longo do tempo
+  
+  - existe sim a necessidade dessa documentação, entretanto ela não precisa ser longa e tampouco rígida mas deve ser simples, direta e que traga e esclareça as principais dúvidas do cliente e da equipe de desenvolvimento. 
+  
+  - terminado o documento oficial de requisitos, valida e tira as dúvidas com o cliente, e ou o documento já vai voltar ok ou com muitos ajustes, caso volte com muitos ajustes, é realizar as revisões, entender o motivo de cada alteração e realizar os ajustes
+
+[Documento+de+Requisitos.docx](https://github.com/WanessaCarvalho378/requisitos-ti/files/12508080/Documento%2Bde%2BRequisitos.docx)
+
+[Video 5.1 [Construção do Documento de Requisitos] Documentos de Requisitos.pdf](https://github.com/WanessaCarvalho378/requisitos-ti/files/12508084/Video.5.1.Construcao.do.Documento.de.Requisitos.Documentos.de.Requisitos.pdf)
+
+</details>
+
+<details>
+<summary>Gerenciamento de requisitos</summary>
+
+- Acompanhamento e controle para que se possa ao final garantir que o projeto será 
+entregue de maneira adequada
+- 1. Garantir sempre a versão atualizada do documento de requisitos para o time
+- 2. Priorizar requisitos: Monitorar a priorização 
+- 3. Avaliar mudanças
+
+link geral importante: https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/guidances/concepts/requirements_management_8067CA83.html#Problem%20Analysis
+
+Link para fluxo de trabalho muito bom: https://www.cin.ufpe.br/~gta/rup-vc/core.base_rup/capabilitypatterns/manage_the_scope_of_the_system_7E0B34E5.html
+
+</details>
