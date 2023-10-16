@@ -1,5 +1,6 @@
 ## Estudando requisitos em TI 
 
+### Levantamento de requisitos: Como começar?
 <details>
 <summary>Levantamento de requisitos</summary>
 
@@ -32,6 +33,7 @@ https://www.alura.com.br/artigos/5-tecnicas-para-otimizar-processo-brainstorming
 
 </details>
 
+### Demandas, viabilidade e partes interessadas
 <details>
 <summary> Analise das demandas, viabilidade e partes interessadas </summary>
 
@@ -69,6 +71,7 @@ A identificação de partes interessadas pode ser feita através de uma reunião
 
 </details>
 
+### Como escrever os requisitos?
 <details>
 <summary>Escrita de requisitos</summary>
 
@@ -92,6 +95,7 @@ https://medium.com/lfdev-blog/como-escrever-requisitos-de-software-de-forma-simp
 
 </details>
 
+### Como validar os requisitos?
 <details>
 <summary>Validação de requisitos</summary>
 
@@ -108,6 +112,7 @@ Durante o processo de validação, precisa conferir os seguintes critérios:
 
 </details>
 
+### Aprimoramento dos requisitos
 <details>
 <summary>Refinando os requisitos</summary>
 
@@ -118,6 +123,7 @@ dar um nome do cenário tendo a ver com a funcionalidade em questão, ter um ato
 
 </details>
 
+### UML
 <details>
 <summary>UML</summary>
 
@@ -128,6 +134,7 @@ dar um nome do cenário tendo a ver com a funcionalidade em questão, ter um ato
 
 </details>
 
+### O que são os artefatos?
 <details>
 <summary>Artefatos</summary>
   
@@ -138,6 +145,7 @@ dar um nome do cenário tendo a ver com a funcionalidade em questão, ter um ato
 
 </details>
 
+### Construindo o documento oficial dos requisitos
 <details>
 <summary>Construção do documento de requisitos</summary>
 
@@ -153,6 +161,7 @@ dar um nome do cenário tendo a ver com a funcionalidade em questão, ter um ato
 
 </details>
 
+### Gerenciando os requisitos
 <details>
 <summary>Gerenciamento de requisitos</summary>
 
